@@ -7,7 +7,7 @@ CONF_TARGET = 'targets'
 CONF_NAME = 'name'
 CONF_MAC = 'mac'
 DEFAULT_INTERVAL = 5
-RSS_LIMIT = -81
+RSS_LIMIT = -100
 
 HOSTINFO_URN = '/login/hostinfo2.cgi'
 LOGIN_URN = '/sess-bin/login_handler.cgi'
